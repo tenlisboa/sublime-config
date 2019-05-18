@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"ColorSchemeEditor",
+		"Colorsublime",
+		"Material Theme",
+		"Origami",
+		"Package Control",
+		"PHP Companion",
+		"PHPUnit",
+		"PHPUnit Completions",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Vue Syntax Highlight"
+	]
+}
